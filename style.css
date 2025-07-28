@@ -64,7 +64,6 @@ color: rgb(191, 230, 217);
 }
 
 .banner {
-    background-image: url(imagens/topo.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
